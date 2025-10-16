@@ -1,0 +1,522 @@
+[
+  {
+    "nome": "Rasengan",
+    "nome_alternativo": "Esfera Espiral",
+    "descricao": "Técnica de chakra concentrado em forma de esfera",
+    "tipo": "Ninjutsu",
+    "natureza": "Vento",
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Uzumaki Naruto"
+  },
+  {
+    "nome": "Rasenshuriken",
+    "nome_alternativo": "Shuriken de Rasengan",
+    "descricao": "Rasengan com propriedades cortantes de vento",
+    "tipo": "Ninjutsu",
+    "natureza": "Vento",
+    "classificacao": "S",
+    "alcance": "Médio",
+    "usuario_principal": "Uzumaki Naruto"
+  },
+  {
+    "nome": "Shadow Clone Technique",
+    "nome_alternativo": "Técnica dos Clones das Sombras",
+    "descricao": "Cria clones físicos reais do usuário",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Uzumaki Naruto"
+  },
+  {
+    "nome": "Sage Mode",
+    "nome_alternativo": "Modo Sábio",
+    "descricao": "Estado de equilíbrio com a natureza",
+    "tipo": "Senjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Uzumaki Naruto"
+  },
+  {
+    "nome": "Chidori",
+    "nome_alternativo": "Mil Pássaros",
+    "descricao": "Técnica de punhal de raio concentrado",
+    "tipo": "Ninjutsu",
+    "natureza": "Raio",
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Uchiha Sasuke"
+  },
+  {
+    "nome": "Amaterasu",
+    "nome_alternativo": "Deusa do Sol",
+    "descricao": "Chamas negras inextinguíveis",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Fogo",
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Uchiha Sasuke"
+  },
+  {
+    "nome": "Susanoo",
+    "nome_alternativo": "Deus da Tempestade",
+    "descricao": "Avatar espiritual protetor",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Médio",
+    "usuario_principal": "Uchiha Sasuke"
+  },
+  {
+    "nome": "Chakra Scalpel",
+    "nome_alternativo": "Bisturi de Chakra",
+    "descricao": "Chakra concentrado como lâmina cirúrgica",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Haruno Sakura"
+  },
+  {
+    "nome": "Mitotic Regeneration",
+    "nome_alternativo": "Regeneração Mitótica",
+    "descricao": "Técnica de cura acelerada",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Haruno Sakura"
+  },
+  {
+    "nome": "Kamui",
+    "nome_alternativo": "Autoridade Divina",
+    "descricao": "Técnica espaço-temporal de teleporte",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Hatake Kakashi"
+  },
+  {
+    "nome": "Raikiri",
+    "nome_alternativo": "Punhal de Raio",
+    "descricao": "Versão aprimorada do Chidori",
+    "tipo": "Ninjutsu",
+    "natureza": "Raio",
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Hatake Kakashi"
+  },
+  {
+    "nome": "Sand Manipulation",
+    "nome_alternativo": "Manipulação de Areia",
+    "descricao": "Controle absoluto da areia",
+    "tipo": "Ninjutsu",
+    "natureza": "Terra",
+    "classificacao": "B",
+    "alcance": "Médio",
+    "usuario_principal": "Gaara"
+  },
+  {
+    "nome": "Sand Shield",
+    "nome_alternativo": "Escudo de Areia",
+    "descricao": "Defesa automática de areia",
+    "tipo": "Ninjutsu",
+    "natureza": "Terra",
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Gaara"
+  },
+  {
+    "nome": "Gentle Fist",
+    "nome_alternativo": "Punho Gentil",
+    "descricao": "Arte marcial que ataca o sistema circulatório",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "C",
+    "alcance": "Curto",
+    "usuario_principal": "Hyuga Hinata"
+  },
+  {
+    "nome": "Eight Trigrams Sixty-Four Palms",
+    "nome_alternativo": "Oito Trigramas Sessenta e Quatro Palmas",
+    "descricao": "Técnica avançada do Punho Gentil",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Hyuga Hinata"
+  },
+  {
+    "nome": "Eight Trigrams Palms Revolving Heaven",
+    "nome_alternativo": "Oito Trigramas Palmas Céu Giratório",
+    "descricao": "Defesa absoluta do Punho Gentil",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Hyuga Neji"
+  },
+  {
+    "nome": "Byakugan",
+    "nome_alternativo": "Olho Branco",
+    "descricao": "Visão de 360 graus e sistema circulatório",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Hyuga Hinata"
+  },
+  {
+    "nome": "Sharingan",
+    "nome_alternativo": "Olho Copiador Giratório",
+    "descricao": "Doujutsu que copia técnicas e prevê movimentos",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Uchiha Sasuke"
+  },
+  {
+    "nome": "Mangekyo Sharingan",
+    "nome_alternativo": "Kaleidoscópio do Olho Copiador",
+    "descricao": "Forma avançada do Sharingan",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Uchiha Itachi"
+  },
+  {
+    "nome": "Tsukuyomi",
+    "nome_alternativo": "Deus da Lua",
+    "descricao": "Genjutsu de controle temporal",
+    "tipo": "Genjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Uchiha Itachi"
+  },
+  {
+    "nome": "Shadow Possession",
+    "nome_alternativo": "Possessão das Sombras",
+    "descricao": "Manipulação de sombras para imobilizar",
+    "tipo": "Ninjutsu",
+    "natureza": "Sombra",
+    "classificacao": "C",
+    "alcance": "Médio",
+    "usuario_principal": "Nara Shikamaru"
+  },
+  {
+    "nome": "Shadow Stitching",
+    "nome_alternativo": "Costura das Sombras",
+    "descricao": "Sombras que perfuram o alvo",
+    "tipo": "Ninjutsu",
+    "natureza": "Sombra",
+    "classificacao": "B",
+    "alcance": "Médio",
+    "usuario_principal": "Nara Shikamaru"
+  },
+  {
+    "nome": "Partial Multi-Size",
+    "nome_alternativo": "Expansão Parcial",
+    "descricao": "Aumento localizado do corpo",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "C",
+    "alcance": "Curto",
+    "usuario_principal": "Akimichi Choji"
+  },
+  {
+    "nome": "Human Boulder",
+    "nome_alternativo": "Bola Humana",
+    "descricao": "Transformação em bola gigante",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Akimichi Choji"
+  },
+  {
+    "nome": "Mind Transfer",
+    "nome_alternativo": "Transferência Mental",
+    "descricao": "Troca de corpos com o alvo",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "C",
+    "alcance": "Médio",
+    "usuario_principal": "Yamanaka Ino"
+  },
+  {
+    "nome": "Mind Destruction",
+    "nome_alternativo": "Destruição Mental",
+    "descricao": "Destruição da mente do alvo",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Yamanaka Ino"
+  },
+  {
+    "nome": "Primary Lotus",
+    "nome_alternativo": "Lótus Primária",
+    "descricao": "Técnica de abertura de portões",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Curto",
+    "usuario_principal": "Rock Lee"
+  },
+  {
+    "nome": "Hidden Lotus",
+    "nome_alternativo": "Lótus Oculta",
+    "descricao": "Técnica avançada de abertura de portões",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Rock Lee"
+  },
+  {
+    "nome": "Eight Gates",
+    "nome_alternativo": "Oito Portões",
+    "descricao": "Liberação de limitações do corpo",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Might Guy"
+  },
+  {
+    "nome": "Morning Peacock",
+    "nome_alternativo": "Pavão da Manhã",
+    "descricao": "Chutes flamejantes com portões abertos",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Might Guy"
+  },
+  {
+    "nome": "Six Paths of Pain",
+    "nome_alternativo": "Seis Caminhos da Dor",
+    "descricao": "Controle de cadáveres com receptores",
+    "tipo": "Kinjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Pain"
+  },
+  {
+    "nome": "Shinra Tensei",
+    "nome_alternativo": "Repulsão Celestial",
+    "descricao": "Poder gravitacional de repulsão",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Pain"
+  },
+  {
+    "nome": "Bansho Tenin",
+    "nome_alternativo": "Atração Universal",
+    "descricao": "Poder gravitacional de atração",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Pain"
+  },
+  {
+    "nome": "Explosive Clay",
+    "nome_alternativo": "Argila Explosiva",
+    "descricao": "Criação de bombas de argila",
+    "tipo": "Ninjutsu",
+    "natureza": "Terra",
+    "classificacao": "B",
+    "alcance": "Médio",
+    "usuario_principal": "Deidara"
+  },
+  {
+    "nome": "Puppet Technique",
+    "nome_alternativo": "Técnica de Marionetes",
+    "descricao": "Controle de marionetes humanas",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "B",
+    "alcance": "Médio",
+    "usuario_principal": "Sasori"
+  },
+  {
+    "nome": "Living Corpse Reincarnation",
+    "nome_alternativo": "Reencarnação nos Mortos-Vivos",
+    "descricao": "Transferência de alma para novos corpos",
+    "tipo": "Kinjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Orochimaru"
+  },
+  {
+    "nome": "Hidden Shadow Snake Hands",
+    "nome_alternativo": "Mãos Ocultas de Cobras das Sombras",
+    "descricao": "Cobras que surgem das mangas",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "C",
+    "alcance": "Curto",
+    "usuario_principal": "Orochimaru"
+  },
+  {
+    "nome": "Flying Thunder God",
+    "nome_alternativo": "Deus do Trovão Voador",
+    "descricao": "Teleporte instantâneo usando selos",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Namikaze Minato"
+  },
+  {
+    "nome": "Creation Rebirth",
+    "nome_alternativo": "Criação do Renascimento",
+    "descricao": "Técnica de regeneração celular",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Senju Tsunade"
+  },
+  {
+    "nome": "Heavenly Foot of Pain",
+    "nome_alternativo": "Pé Celestial da Dor",
+    "descricao": "Golpe de força sobre-humana",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Senju Tsunade"
+  },
+  {
+    "nome": "Wood Release",
+    "nome_alternativo": "Liberação de Madeira",
+    "descricao": "Criação e manipulação de madeira",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Terra",
+    "classificacao": "S",
+    "alcance": "Médio",
+    "usuario_principal": "Senju Hashirama"
+  },
+  {
+    "nome": "Wood Human Technique",
+    "nome_alternativo": "Técnica do Humano de Madeira",
+    "descricao": "Criação de soldados de madeira",
+    "tipo": "Ninjutsu",
+    "natureza": "Terra",
+    "classificacao": "A",
+    "alcance": "Médio",
+    "usuario_principal": "Senju Hashirama"
+  },
+  {
+    "nome": "Perfect Susanoo",
+    "nome_alternativo": "Susanoo Perfeito",
+    "descricao": "Forma completa do Susanoo",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Médio",
+    "usuario_principal": "Uchiha Madara"
+  },
+  {
+    "nome": "Rinnegan",
+    "nome_alternativo": "Olho Samsara",
+    "descricao": "Doujutsu lendário com múltiplas habilidades",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Curto",
+    "usuario_principal": "Uchiha Madara"
+  },
+  {
+    "nome": "Kamui",
+    "nome_alternativo": "Autoridade Divina",
+    "descricao": "Técnica espaço-temporal de teleporte",
+    "tipo": "KekkeiGenkai",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Uchiha Obito"
+  },
+  {
+    "nome": "Lariat",
+    "nome_alternativo": "Lariat",
+    "descricao": "Golpe físico extremamente poderoso",
+    "tipo": "Taijutsu",
+    "natureza": null,
+    "classificacao": "A",
+    "alcance": "Curto",
+    "usuario_principal": "Killer Bee"
+  },
+  {
+    "nome": "Tailed Beast Ball",
+    "nome_alternativo": "Bola da Besta com Cauda",
+    "descricao": "Esfera de energia destrutiva",
+    "tipo": "Ninjutsu",
+    "natureza": null,
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Killer Bee"
+  },
+  {
+    "nome": "Lava Release",
+    "nome_alternativo": "Liberação de Lava",
+    "descricao": "Manipulação de lava",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Fogo",
+    "classificacao": "A",
+    "alcance": "Médio",
+    "usuario_principal": "Terumi Mei"
+  },
+  {
+    "nome": "Boil Release",
+    "nome_alternativo": "Liberação de Ebulição",
+    "descricao": "Manipulação de ácido corrosivo",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Fogo",
+    "classificacao": "A",
+    "alcance": "Médio",
+    "usuario_principal": "Terumi Mei"
+  },
+  {
+    "nome": "Particle Style",
+    "nome_alternativo": "Estilo Partícula",
+    "descricao": "Desintegração molecular",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Terra",
+    "classificacao": "S",
+    "alcance": "Longo",
+    "usuario_principal": "Ōnoki"
+  },
+  {
+    "nome": "Black Lightning",
+    "nome_alternativo": "Raio Negro",
+    "descricao": "Raio que atravessa defesas",
+    "tipo": "Ninjutsu",
+    "natureza": "Raio",
+    "classificacao": "A",
+    "alcance": "Médio",
+    "usuario_principal": "Darui"
+  },
+  {
+    "nome": "Storm Release",
+    "nome_alternativo": "Liberação de Tempestade",
+    "descricao": "Combinação de raio e água",
+    "tipo": "KekkeiGenkai",
+    "natureza": "Raio",
+    "classificacao": "S",
+    "alcance": "Médio",
+    "usuario_principal": "Darui"
+  }
+]

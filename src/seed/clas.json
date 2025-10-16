@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Uzumaki",
+    "simbolo": "🌀",
+    "elemento_principal": "Vento",
+    "descricao": "Clã especializado em selos e longevidade"
+  },
+  {
+    "id": 2,
+    "nome": "Uchiha",
+    "simbolo": "🔥",
+    "elemento_principal": "Fogo",
+    "descricao": "Clã com Sharingan e afinidade com fogo"
+  },
+  {
+    "id": 3,
+    "nome": "Hyuga",
+    "simbolo": "👁️",
+    "elemento_principal": "Ar",
+    "descricao": "Clã com Byakugan e Juken"
+  },
+  {
+    "id": 4,
+    "nome": "Nara",
+    "simbolo": "🦌",
+    "elemento_principal": "Sombra",
+    "descricao": "Clã especializado em técnicas de sombra"
+  },
+  {
+    "id": 5,
+    "nome": "Akimichi",
+    "simbolo": "🍖",
+    "elemento_principal": "Terra",
+    "descricao": "Clã que usa expansão corporal"
+  },
+  {
+    "id": 6,
+    "nome": "Yamanaka",
+    "simbolo": "🌸",
+    "elemento_principal": "Ar",
+    "descricao": "Clã especializado em controle mental"
+  },
+  {
+    "id": 7,
+    "nome": "Inuzuka",
+    "simbolo": "🐕",
+    "elemento_principal": "Terra",
+    "descricao": "Clã que trabalha com cães"
+  },
+  {
+    "id": 8,
+    "nome": "Aburame",
+    "simbolo": "🐛",
+    "elemento_principal": "Ar",
+    "descricao": "Clã que controla insetos"
+  },
+  {
+    "id": 9,
+    "nome": "Senju",
+    "simbolo": "🌿",
+    "elemento_principal": "Água",
+    "descricao": "Clã com afinidade com madeira"
+  },
+  {
+    "id": 10,
+    "nome": "Hozuki",
+    "simbolo": "💧",
+    "elemento_principal": "Água",
+    "descricao": "Clã com hidrificação corporal"
+  }
+]

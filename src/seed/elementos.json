@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "Fogo",
+    "simbolo": "🔥",
+    "descricao": "Elemento do fogo - Katon"
+  },
+  {
+    "id": 2,
+    "nome": "Água",
+    "simbolo": "💧",
+    "descricao": "Elemento da água - Suiton"
+  },
+  {
+    "id": 3,
+    "nome": "Terra",
+    "simbolo": "🌍",
+    "descricao": "Elemento da terra - Doton"
+  },
+  {
+    "id": 4,
+    "nome": "Ar",
+    "simbolo": "💨",
+    "descricao": "Elemento do ar - Futon"
+  },
+  {
+    "id": 5,
+    "nome": "Raio",
+    "simbolo": "⚡",
+    "descricao": "Elemento do raio - Raiton"
+  },
+  {
+    "id": 6,
+    "nome": "Gelo",
+    "simbolo": "🧊",
+    "descricao": "Elemento do gelo - Hyoton"
+  },
+  {
+    "id": 7,
+    "nome": "Madeira",
+    "simbolo": "🌳",
+    "descricao": "Elemento da madeira - Mokuton"
+  },
+  {
+    "id": 8,
+    "nome": "Lava",
+    "simbolo": "🌋",
+    "descricao": "Elemento da lava - Yoton"
+  },
+  {
+    "id": 9,
+    "nome": "Poeira",
+    "simbolo": "💥",
+    "descricao": "Elemento da poeira - Jinton"
+  },
+  {
+    "id": 10,
+    "nome": "Yin-Yang",
+    "simbolo": "☯️",
+    "descricao": "Elemento Yin-Yang - Onmyoton"
+  },
+  {
+    "id": 11,
+    "nome": "Vento",
+    "simbolo": "🌪️",
+    "descricao": "Elemento do vento - Futon"
+  },
+  {
+    "id": 12,
+    "nome": "Sombra",
+    "simbolo": "🌑",
+    "descricao": "Elemento das sombras - Kagemane"
+  }
+]

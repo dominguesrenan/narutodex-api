@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Genin",
+    "nivel": 1,
+    "descricao": "Ninja iniciante"
+  },
+  {
+    "id": 2,
+    "nome": "Chunin",
+    "nivel": 2,
+    "descricao": "Ninja intermediário"
+  },
+  {
+    "id": 3,
+    "nome": "Jonin",
+    "nivel": 3,
+    "descricao": "Ninja elite"
+  },
+  {
+    "id": 4,
+    "nome": "Kage",
+    "nivel": 4,
+    "descricao": "Líder de aldeia"
+  },
+  {
+    "id": 5,
+    "nome": "Sannin",
+    "nivel": 5,
+    "descricao": "Ninja lendário"
+  },
+  {
+    "id": 6,
+    "nome": "Akatsuki",
+    "nivel": 6,
+    "descricao": "Membro da organização criminosa"
+  }
+]

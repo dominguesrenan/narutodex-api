@@ -1,0 +1,17 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Instalar dependências
+COPY package.json package-lock.json* ./
+RUN npm install
+
+# Copiar os arquivos restantes
+COPY tsconfig.json ./
+COPY src ./src
+
+# Definir a porta de exposição
+EXPOSE 4000
+
+# Iniciar o servidor de desenvolvimento
+CMD ["npm", "run", "dev"]

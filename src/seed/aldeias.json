@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nome": "Konohagakure",
+    "simbolo": "🍃",
+    "lider": "Uzumaki Naruto",
+    "descricao": "Aldeia da Folha - Vila Oculta entre as Folhas"
+  },
+  {
+    "id": 2,
+    "nome": "Sunagakure",
+    "simbolo": "🏜️",
+    "lider": "Gaara",
+    "descricao": "Aldeia da Areia - Vila Oculta entre a Areia"
+  },
+  {
+    "id": 3,
+    "nome": "Kirigakure",
+    "simbolo": "🌫️",
+    "lider": "Terumi Mei",
+    "descricao": "Aldeia da Névoa - Vila Oculta entre a Névoa"
+  },
+  {
+    "id": 4,
+    "nome": "Iwagakure",
+    "simbolo": "🗻",
+    "lider": "Ōnoki",
+    "descricao": "Aldeia da Pedra - Vila Oculta entre as Pedras"
+  },
+  {
+    "id": 5,
+    "nome": "Kumogakure",
+    "simbolo": "⚡",
+    "lider": "Darui",
+    "descricao": "Aldeia da Nuvem - Vila Oculta entre as Nuvens"
+  },
+  {
+    "id": 6,
+    "nome": "Amegakure",
+    "simbolo": "🌧️",
+    "lider": "Pain",
+    "descricao": "Aldeia da Chuva - Vila Oculta entre a Chuva"
+  },
+  {
+    "id": 7,
+    "nome": "Otogakure",
+    "simbolo": "🐍",
+    "lider": "Orochimaru",
+    "descricao": "Aldeia do Som - Vila Oculta entre o Som"
+  }
+]

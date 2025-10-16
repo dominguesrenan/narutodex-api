@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Time 7",
+    "aldeia": "Konohagakure",
+    "lider": "Hatake Kakashi",
+    "descricao": "Naruto, Sasuke, Sakura"
+  },
+  {
+    "id": 2,
+    "nome": "Time 8",
+    "aldeia": "Konohagakure",
+    "lider": "Yuhi Kurenai",
+    "descricao": "Hinata, Kiba, Shino"
+  },
+  {
+    "id": 3,
+    "nome": "Time 10",
+    "aldeia": "Konohagakure",
+    "lider": "Asuma Sarutobi",
+    "descricao": "Ino, Shikamaru, Choji"
+  },
+  {
+    "id": 4,
+    "nome": "Akatsuki",
+    "aldeia": null,
+    "lider": "Pain",
+    "descricao": "Organização criminosa formada pelos ninjas mais poderosos"
+  },
+  {
+    "id": 5,
+    "nome": "Sannin Lendários",
+    "aldeia": "Konohagakure",
+    "lider": "Sarutobi Hiruzen",
+    "descricao": "Jiraiya, Tsunade, Orochimaru"
+  }
+]

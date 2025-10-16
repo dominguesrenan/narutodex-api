@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "Shukaku",
+    "numero_caudas": 1,
+    "jinchuriki_atual": "Gaara",
+    "elemento_principal": "Terra",
+    "descricao": "Bijuu de uma cauda, Ichibi - Tanuki"
+  },
+  {
+    "id": 2,
+    "nome": "Matatabi",
+    "numero_caudas": 2,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Fogo",
+    "descricao": "Bijuu de duas caudas, Nibi - Gato de fogo"
+  },
+  {
+    "id": 3,
+    "nome": "Isobu",
+    "numero_caudas": 3,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Água",
+    "descricao": "Bijuu de três caudas, Sanbi - Tartaruga"
+  },
+  {
+    "id": 4,
+    "nome": "Son Goku",
+    "numero_caudas": 4,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Lava",
+    "descricao": "Bijuu de quatro caudas, Yonbi - Macaco"
+  },
+  {
+    "id": 5,
+    "nome": "Kokuo",
+    "numero_caudas": 5,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Ácido",
+    "descricao": "Bijuu de cinco caudas, Gobi - Golfinho/Cavalo"
+  },
+  {
+    "id": 6,
+    "nome": "Saiken",
+    "numero_caudas": 6,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Bolhas",
+    "descricao": "Bijuu de seis caudas, Rokubi - Lesma"
+  },
+  {
+    "id": 7,
+    "nome": "Chomei",
+    "numero_caudas": 7,
+    "jinchuriki_atual": null,
+    "elemento_principal": "Ar",
+    "descricao": "Bijuu de sete caudas, Nanabi - Besouro"
+  },
+  {
+    "id": 8,
+    "nome": "Gyuki",
+    "numero_caudas": 8,
+    "jinchuriki_atual": "Killer Bee",
+    "elemento_principal": "Raio",
+    "descricao": "Bijuu de oito caudas, Hachibi - Boi polvo"
+  },
+  {
+    "id": 9,
+    "nome": "Kurama",
+    "numero_caudas": 9,
+    "jinchuriki_atual": "Uzumaki Naruto",
+    "elemento_principal": "Vento",
+    "descricao": "Bijuu de nove caudas, Kyuubi - Raposa"
+  }
+]
